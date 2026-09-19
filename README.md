@@ -1,4 +1,4 @@
-## AgentPlayground · 多范式 Agent 实践项目
+## AgentPlayground · 多范式 Agent 实践
 
 从零手写的 Agent 实践项目：**3 种经典 Agent 范式**，以及一个具备 **RAG 知识库 / 跨会话长期记忆 / MCP 远程工具** 的多轮对话聊天助手。
 
