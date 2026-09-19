@@ -1,0 +1,1 @@
+"""MCP 相关模块包：mcp_server（MCP 服务端）、mcp_test（联通性测试）与学习示例。"""

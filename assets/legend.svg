@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="792" height="26" viewBox="0 0 792 26" role="img" aria-label="分层配色图例">
+  <title>分层配色图例（取色与架构图 classDef 一致）</title>
+  <g font-family="-apple-system, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="12" font-weight="500">
+
+    <rect x="0" y="1" width="84" height="24" rx="6" fill="#FCE4EC" stroke="#C2185B" stroke-width="1.5"/>
+    <text x="14" y="17.2" fill="#880E4F" textLength="55" lengthAdjust="spacing">入口 main</text>
+
+    <rect x="92" y="1" width="104" height="24" rx="6" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.5"/>
+    <text x="106" y="17.2" fill="#1B5E20" textLength="76" lengthAdjust="spacing">范式层 agent</text>
+
+    <rect x="204" y="1" width="132" height="24" rx="6" fill="#FFF3E0" stroke="#EF6C00" stroke-width="1.5"/>
+    <text x="218" y="17.2" fill="#E65100" textLength="104" lengthAdjust="spacing">工具层 tools/mcp</text>
+
+    <rect x="344" y="1" width="176" height="24" rx="6" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5"/>
+    <text x="358" y="17.2" fill="#0D47A1" textLength="148" lengthAdjust="spacing">记忆与知识层 memory/rag</text>
+
+    <rect x="528" y="1" width="178" height="24" rx="6" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="1.5"/>
+    <text x="542" y="17.2" fill="#4A148C" textLength="150" lengthAdjust="spacing">基础设施层 database/llm</text>
+
+    <rect x="714" y="1" width="76" height="24" rx="6" fill="#E0F7FA" stroke="#00838F" stroke-width="1.5" stroke-dasharray="5 3"/>
+    <text x="728" y="17.2" fill="#006064">外部服务</text>
+
+  </g>
+</svg>
