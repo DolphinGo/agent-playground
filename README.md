@@ -186,7 +186,7 @@ python main.py
 ```
 
 ```
-[1] ReAct Agent           🤖 推理+行动：边思考边调用工具获取信息
+[1] ReAct Agent            🤖 推理+行动：边思考边调用工具获取信息
 [2] Plan-and-Solve Agent   🧩 先规划后执行：分解任务为步骤再逐步执行
 [3] Reflection Agent       🔁 自我反思：生成草稿由审阅者批评并修订迭代
 [4] Chat Agent             💬 多轮聊天+记忆助手：结合长期记忆与工具连续对话
